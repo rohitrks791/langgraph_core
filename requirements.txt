@@ -1,0 +1,10 @@
+langgraph
+ipython
+python-dotenv
+ipykernel
+
+langchain
+langchain_core
+langchain_groq
+langchain_community
+langchain_nvidia_ai_endpoints
